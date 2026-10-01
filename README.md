@@ -14,6 +14,6 @@ Contents
 
 The notebook includes the implementation, results, and summary of the required tasks.
 
- Student MINERAH
+ Student MONERAH
 
 
